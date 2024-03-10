@@ -3,7 +3,7 @@ import openai
 import csv
 
 # Configurer votre clé API OpenAI
-openai.api_key = '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'
+openai.api_key = 'add_key_here'
 
 # Lire le fichier CSV original
 df = pd.read_csv('export.csv')
